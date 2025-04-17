@@ -1,8 +1,3 @@
-/*
-	MADE BY 
-		Itay Andre Aknin 322959412 איתי אנדרי אקנין
-		Roi Israel Forer 322226952 רועי ישראל פורר
-*/
 
 #include <stdio.h>
 #include <string.h>
